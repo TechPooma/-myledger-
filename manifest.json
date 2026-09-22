@@ -1,0 +1,42 @@
+{
+  "name": "MyLedger - Expense, EMI & Lending Tracker",
+  "short_name": "MyLedger",
+  "description": "Track household expenses, loan EMIs, money lent or borrowed, income, and small shop sales/purchases — all in one simple bilingual (Hindi/English) app. Your data stays on your device.",
+  "id": "/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "background_color": "#f5f6f8",
+  "theme_color": "#0f766e",
+  "orientation": "portrait",
+  "lang": "hi-IN",
+  "dir": "ltr",
+  "categories": ["finance", "productivity", "business"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
